@@ -1,0 +1,125 @@
+{
+  "references": [
+    {
+      "code": "EMIR-DEV-ACCESS",
+      "createdBy": "SYSTEM",
+      "usedBy": null,
+      "createdAt": "2026-06-07T08:04:50.656Z",
+      "usedAt": null
+    },
+    {
+      "code": "VIP-SPECIAL",
+      "createdBy": "SYSTEM",
+      "usedBy": null,
+      "createdAt": "2026-06-07T08:04:50.657Z",
+      "usedAt": null
+    },
+    {
+      "code": "DISCORD-TOOL-99",
+      "createdBy": "SYSTEM",
+      "usedBy": null,
+      "createdAt": "2026-06-07T08:04:50.657Z",
+      "usedAt": null
+    }
+  ],
+  "whitelist": [
+    {
+      "discordId": "1365990690349121536",
+      "username": "emirr24546",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "addedBy": "SYSTEM",
+      "createdAt": "2026-06-07T08:04:50.657Z"
+    }
+  ],
+  "vips": [
+    {
+      "discordId": "1365990690349121536",
+      "username": "emirr24546",
+      "addedBy": "SYSTEM",
+      "createdAt": "2026-06-07T08:04:50.657Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log_1780819858586",
+      "discordId": "1365990690349121536",
+      "username": "Aktif Kullanıcı",
+      "command": "Account Checker",
+      "details": "Hesap sorgulaması yapıldı: ID: 1087004362284478484, Token: MTA4NzAwNDM2MjI...Q3ODQ4NA==",
+      "timestamp": "2026-06-07T08:10:58.586Z"
+    },
+    {
+      "id": "log_1780819839282",
+      "discordId": "1365990690349121536",
+      "username": "Aktif Kullanıcı",
+      "command": "Token Checker",
+      "details": "Sorgulama yapıldı: ID: 1087004362284478484, Token: MTA4NzAwNDM2MjI...Q3ODQ4NA==",
+      "timestamp": "2026-06-07T08:10:39.282Z"
+    },
+    {
+      "id": "log_1780819818773",
+      "discordId": "1365990690349121536",
+      "username": "Aktif Kullanıcı",
+      "command": "Token Checker",
+      "details": "Sorgulama yapıldı: ID: 840594052662558753, Token: Gizli Token",
+      "timestamp": "2026-06-07T08:10:18.773Z"
+    },
+    {
+      "id": "log_1780819797632",
+      "discordId": "1365990690349121536",
+      "username": "Aktif Kullanıcı",
+      "command": "Token Checker",
+      "details": "Korumalı ID Engellendi (*1365...*)",
+      "timestamp": "2026-06-07T08:09:57.632Z"
+    },
+    {
+      "id": "log_1780819762554",
+      "discordId": "1365990690349121536",
+      "username": "VIP Üye",
+      "command": "VIP ID Checker",
+      "details": "Discord ID sorgulandı: EMIR-DEV-ACCESS (Bot token kullanıldı: Hayır)",
+      "timestamp": "2026-06-07T08:09:22.554Z"
+    },
+    {
+      "id": "log_1780819602480",
+      "discordId": "1365990690349121536",
+      "username": "Aktif Kullanıcı",
+      "command": "Url Sniper",
+      "details": "Davet kontrolü yapıldı: bloxfruitstr",
+      "timestamp": "2026-06-07T08:06:42.480Z"
+    },
+    {
+      "id": "log_1780819594865",
+      "discordId": "1365990690349121536",
+      "username": "Aktif Kullanıcı",
+      "command": "Url Sniper",
+      "details": "Davet kontrolü yapıldı: leeth",
+      "timestamp": "2026-06-07T08:06:34.865Z"
+    },
+    {
+      "id": "log_1780819540041",
+      "discordId": "1365990690349121536",
+      "username": "VIP Üye",
+      "command": "VIP ID Checker",
+      "details": "Discord ID sorgulandı: 1365990690349121536 (Bot token kullanıldı: Hayır)",
+      "timestamp": "2026-06-07T08:05:40.041Z"
+    },
+    {
+      "id": "log-init",
+      "discordId": "SYSTEM",
+      "username": "System",
+      "command": "Startup",
+      "details": "Discord tools database engine online",
+      "timestamp": "2026-06-07T08:04:50.657Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "title": "⭐ Discord Tools Platform v2.0 Çıktı!",
+      "content": "Yeni Whitelist Koruma sistemi ve VIP ID Checker özellikleri eklendi! Keyifli kullanımlar dileriz.",
+      "createdAt": "2026-06-07T08:04:50.657Z",
+      "updatedAt": "2026-06-07T08:04:50.657Z"
+    }
+  ]
+}

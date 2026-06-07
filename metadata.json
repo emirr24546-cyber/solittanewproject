@@ -1,0 +1,6 @@
+{
+  "name": "Discord Admin & Tools Portal",
+  "description": "Discord token checker, account crawler, URL invite sniper, whitelisting, VIP Discord ID tracker, and reference system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
